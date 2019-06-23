@@ -1,1 +1,1 @@
-# gas-folderCopy
+# フォルダ/ファイルコピー用gas
